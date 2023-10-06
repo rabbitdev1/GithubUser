@@ -1,0 +1,13 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GithubUser" parent="Theme.AppCompat.NoActionBar">
+        <!-- Atribut-atribut tema Light Mode di sini -->
+        <item name="android:windowBackground">@color/primary_background_light</item>
+        <item name="android:textColorPrimary">@color/primary_text_light</item>
+        <item name="android:textColorSecondary">@color/secondary_text_light</item>
+        <item name="android:navigationBarColor">@color/navbar_light</item>
+
+        <item name="tabBackground">@color/navbar_light</item>
+    </style>
+
+</resources>

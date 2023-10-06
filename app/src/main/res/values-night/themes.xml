@@ -1,0 +1,13 @@
+
+<resources>
+    <style name="Theme.GithubUser" parent="Theme.AppCompat.NoActionBar">
+        <!-- Atribut-atribut tema Dark Mode di sini -->
+        <item name="android:windowBackground">@color/primary_background_dark</item>
+        <item name="android:textColorPrimary">@color/primary_text_dark</item>
+        <item name="android:textColorSecondary">@color/secondary_text_dark</item>
+        <item name="android:navigationBarColor">@color/navbar_dark</item>
+
+        <item name="tabBackground">@color/navbar_dark</item>
+
+    </style>
+</resources>
