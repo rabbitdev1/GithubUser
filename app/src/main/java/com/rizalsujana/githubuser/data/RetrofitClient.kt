@@ -1,5 +1,5 @@
-package com.rizalsujana.githubuser.data
-import com.rizalsujana.githubuser.BuildConfig
+package com.rizalsujana.storyapps.data
+import com.rizalsujana.storyapps.BuildConfig
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
